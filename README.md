@@ -1,10 +1,8 @@
-# Equipe Delta — Escola Delta de Idiomas
+# Equipe Vinland —  Desenvolvimento Web em HTML5, CSS, JavaScript
+e PHP
 
 Projeto da disciplina **ARA0062 · Desenvolvimento Web em HTML5, CSS, JavaScript
 e PHP** — Centro Universitário Newton Paiva, 2026/2.
-
-> Troque o título acima pelo nome da sua equipe e pelo tema do projeto de vocês.
-> Todo o resto deste arquivo é modelo: substitua os dados de exemplo.
 
 ## Tema do projeto
 

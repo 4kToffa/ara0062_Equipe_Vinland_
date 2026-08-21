@@ -1,5 +1,4 @@
-# Equipe Vinland —  Desenvolvimento Web em HTML5, CSS, JavaScript
-e PHP
+# Equipe Vinland —  Desenvolvimento Web em HTML5, CSS, JavaScript e PHP
 
 Projeto da disciplina **ARA0062 · Desenvolvimento Web em HTML5, CSS, JavaScript
 e PHP** — Centro Universitário Newton Paiva, 2026/2.

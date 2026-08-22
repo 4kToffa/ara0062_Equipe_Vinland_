@@ -15,12 +15,12 @@ para quem ele serve.
 
 | Nome completo | Matrícula | GitHub | Papel |
 |---|---|---|---|
-| Ana Beatriz Nogueira | 2026xxxxx | @anabnogueira | integrante |
+| Bernardo Augusto Gontijo | 202602814544 | @bernardoaugustog-gif | integrante |
 | Carlos Eduardo Ramos | 2026xxxxx | @cadu-ramos | integrante |
 | Daniela Prado Vieira | 2026xxxxx | @dani-prado | **líder** |
 | Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
 | Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |
-| Rafael Teixeira Alves | 2026xxxxx | @rafaelalves | integrante |
+
 
 Cada integrante acrescenta a **sua própria linha** nesta tabela, pelo GitHub.
 Esse é o commit que registra a sua participação.

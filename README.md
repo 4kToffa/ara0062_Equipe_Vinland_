@@ -16,7 +16,7 @@ para quem ele serve.
 | Nome completo | Matrícula | GitHub | Papel |
 |---|---|---|---|
 | Bernardo Augusto Gontijo | 202602814544 | @bernardoaugustog-gif | integrante |
-| Carlos Eduardo Ramos | 2026xxxxx | @cadu-ramos | integrante |
+| Juliano Morais Santos Murta | 202602147068 | @Juliano31545 | integrante |
 | Daniela Prado Vieira | 2026xxxxx | @dani-prado | **líder** |
 | Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
 | Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |

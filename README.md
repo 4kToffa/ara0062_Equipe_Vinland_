@@ -18,7 +18,7 @@ para quem ele serve.
 | Bernardo Augusto Gontijo | 202602814544 | @bernardoaugustog-gif | integrante |
 | Juliano Morais Santos Murta | 202602147068 | @Juliano31545 | integrante |
 | Daniela Prado Vieira | 2026xxxxx | @dani-prado | **líder** |
-| Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
+| Henrique Del Rio Toffalini | 202602188694 | @4kToffa | integrante |
 | Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |
 
 
